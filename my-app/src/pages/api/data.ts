@@ -1,0 +1,10 @@
+
+  let people = [
+    { name: "CO-HODES", discription:"Collaborative staking among users to pool to achieve threshold stake and operate collectively. This democratises participation and allows sub-stake holders to benefit from reward protocols. It also enables compounding as participants can sweep earned rewards into further Co-Nodes" ,img:"https://www.racksolutions.com/news//app/uploads/AdobeStock_90603827-scaled.jpeg" },
+    { name: "MANAGED NODES", discription:"Outsource node deployment, management, and maintenance to Node Army for a small commission of earned rewards. Develop a passive yield portfolio with minimum time and skill commitment." ,img:"" },
+    { name: "NODES AS A SERVICE", discription:"An industrial node solution for projects requiring robust decentralised node infrastructures at scale. Node Army collaborates with projects during development phase and through a blockchain lifecycle." ,img:"" },
+    { name: "REWARDS", discription:"Participate in underlying projects offering rewards for staking. validating, and securing their network through a transparent process. Node Army does not offer or promote its own Node Army yield, but rewards are transparently distributed on the blockchain according to the underlying project's protocol and tokenomics." ,img:"" },
+    { name: "NODE BUILD TEMPLATES", discription:"Easily deploy nodes with pre-built templates hosted in the Marketplaces of premier cloud computing providers. Templates are specific to the networks, designed to make deployment seamless." ,img:"" },
+    { name: "BLOCKCHAIN SCALABILITY", discription:"Leverage scalable blockchain infrastructure and a substantial and growing community of committed datapreneurs for rapid and effective scaling of blockchain-based applications. Maintain high performance and security in a decentralised approach." ,img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXRVe7qcjpi4BHquui2rtMlTSUp1hBJbvV9UkfqNpVclk9ITpe2unfksRC7Y1SXohHUs&usqp=CAU" }
+  ];
+export default people;
