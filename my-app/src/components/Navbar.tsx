@@ -91,9 +91,9 @@ const Navbar: React.FC<NavbarProps> = ({ title }) => {
           <Link href='/faq' className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
             FQA
           </Link>
-          <a href='/pratfrom'className="text-gray-400 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-base font-extrabold ">
+          <Link href='/pratfrom'className="text-gray-400 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-base font-extrabold ">
             Pratform
-          </a>
+          </Link>
           <Link href='/comingSoon' className="text-gray-400 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-base font-extrabold">
             Coming Soon
           </Link>
