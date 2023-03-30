@@ -19,13 +19,5 @@ const Services = () => {
     </>
   )
 }
-export const getStaticProps = async () => {
-    const response = await fetch('./api/data.ts')
-    const people = await response.json()
-  
-    return {
-      props: { people },
-    }
-  }
 
 export default Services
