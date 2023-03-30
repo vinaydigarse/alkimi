@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
-import Services from './Services'
+import Services from './services'
 import Faq from './faq'
 // const inter = Inter({ subsets: ['latin'] })
 
